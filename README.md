@@ -1,7 +1,7 @@
 # fromImageCountNumber
 this program is from image to make number and get sum (pyton)
 
-# to use
+# how to use
 1. prepare photos (ex.photo = PrtScn)
 1. throw photos in folder("kankore")
 1. use makeImage.py  
